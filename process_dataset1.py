@@ -7,7 +7,7 @@ Created on Sat Nov  9 14:32:16 2019
 
 import os
 
-abslote_path = os.path.abspath('..')
+abslote_path = os.path.abspath('.')
 
 dataset1_file = abslote_path + "/6ddcd912-32a0-43df-9908-63574f8c7e77.csv"
 dataset2_file = abslote_path + "/fy19fullpropassess.csv"
